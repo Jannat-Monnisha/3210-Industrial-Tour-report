@@ -1,6 +1,13 @@
 \documentclass[a4paper,12pt]{report}
 \usepackage{times}
 \usepackage{graphicx}
+\usepackage[a4paper,
+bindingoffset=0.2in,
+left=1in,
+right=.5in,
+top=.7in,
+bottom=.5in,
+footskip=.25in]{geometry}
 \begin{document}
 	\begin{center}
 		\textbf{NETACODE -A SOFTWARE COMPANY VISITING REPORT}\\
@@ -120,11 +127,97 @@ The systems can be divided into the following types
 \newpage
 \textbf{Goals}\\
 To provide trouble-free, customer-focused, reliable, and affordable web hosting services. WE simply want
-to continue to operate a profitable web hosting company that makes customers happy. Since the
+to continue to operate a profitable web hosting company that makes customers happy. \\Since the
 beginning, we have backed our rock solid hosting solutions and top-notch infrastructure with the best
 customer service and technical support. A common feeling about the technology field is it's all about
 machines, yes, It does take machines but, Host Pair also knows it takes good people to run a well-oiled
 machine. Yes, a successful business needs to be committed to client solutions, innovation, creativity, and
 a warm, caring attitude to all of our customers' business needs. We don't just provide 24x7 support. We
 really do listen and care.
+
+
+
+
+
+
+
+
+
+
+
+
+
+\newpage
+\chapter{The System Development Life Cycle }
+\section{Introduction:}
+The system development life cycle is a conceptual model used for project management that describes the stages involved in an information system development project,from an initial feasibility study through maintainence of the completed application. To understand system development,we need to recognize that a candidate system has a life cycle. The stages are shown below:
+\begin{enumerate}
+	\item Recognititon of need / initial investigation
+	\item	Feasibility Study
+	\item	Analysis
+	\item Design
+	\item	Implementation
+	\item	Post-implementation and maintenance   
+	\end{enumerate}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.7\linewidth]{fig-1;chap-2}
+	\caption{System development life cycle}
+	\label{fig:fig-1chap-2}
+\end{figure}
+\section{Recognition of Need: }
+One must know what the problems are before it can be solved. The basis for a candidate system is recognition of a need for improving an information system or a procedure. For example, a supervisor wants to investigate the system flow in purchasing.When we have completed our visit at netacode ,we discuss the recognition needs of their clients and how they collect and process the requirements to complete their project  successfully. They told us they have arranged meetings with their clients many times to understand and collect the requirements. They provide them forms and other documents to understand what is the actual need of their clients.If the problem is serious enough , management may want to have an analyst look at it. Such assignment  implies a commitment. At this stage only a rough estimation of the development cost of the project may be reached.If the problem is serious enough , management may want to have an analyst look at it. Such assignment  implies a commitment. At this stage only a rough estimation of the development cost of the project may be reached.
+\section{Feasibility Study}
+Depending on the initial investigation the survey expanded to a more detailed feasibility study. It is the test of a system proposal according to its workability. It focuses on three major questions:
+\begin{enumerate}
+	\item 	What are the users demonstrable needs and how does a candidate system meet them?
+	\item	What resources are available for a given candidate system? Is the problem worth solving?
+	\item	What are likely impacts of the candidate system on the organization? How does it fit within the organization MIS plan?
+	\end{enumerate}
+Each of these questions must be answered carefully. They revolved around the investigation and evaluation of the problem,identification and description of the candidate system,specification of performance and the cost of each system and final selection of the best system.\\ \\
+
+The objective of the feasibility study is not to solve the problem but to acquire a sense of its scope. During the study the problem definition is crystalized and aspects of the problem to be included in the system are determined.\\ \\
+
+The proposal summarizes what is known and what is going to be done. It is consist of the following:
+\begin{enumerate}
+	\item \textbf{Statement of the problem :} A carefully worded statement of the problem led to analysis.
+	
+	\item \textbf{	Summary of the findings and recommendations :} A list of the major findings and recommendations of the study. It is the idea for the user who requires quick access to the results of the analysis of the system under study. Conclusions are started followed by a list of the recommendations and a justification for them.
+	
+	\item \textbf{ Details of the findings :} an outline of the methods are procedures undertaken by the existing system,followed by coverage of the objectives and procedures of the candidate system. Included are also discussions of output reports, file structures, and cost and benefits of the candidate system.
+	
+	\item \textbf{	Recommendation and conclusions :} Specific recommendations regarding the candidate system, including personnel assignments, costs, project schedules and target dates.
+\end{enumerate}
+\section{Analysis:}
+ It is the detailed study of the various operations performed by a system and their relationships within and outside of the system. A key question is : what must be done to solve the problem?\\ 
+ 
+ When we visited the organization we discussed the analysis system. They first analys if they are able to complete it or not and then they discuss further processes that are steps they should take to make the project successful. Training, experience and common sense are required for collection of the information needed to do the analysis.
+ \\ \\
+ Once the analysis is completed, the analyst has a firm understanding what is to be done. The next step is to decide how the problem must be solved. Thus in system design, we move from the logical to physical aspects of the life cycle of a project.\\
+ \section{Design:}
+ The most creative and challenging phase of a system life cycle of a project is system design. The term design describes a final system and the process by which it is developed. It refers to the technical specifications that will be applied in implementing the project. The question is here: How should the problem be solved?\\
+ 
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.7\linewidth]{fig-2;chap-2}
+	\caption{design of a system}
+	\label{fig:fig-2chap-2}
+\end{figure}
+The first step is to determine how the output is to be produced and in what form. Samples of the output are also presented. Second, input data and master files  are designed to meet the requirements of the proposed output. Finally details related to justification of the project and an estimate of the impact of the candidate system on the user and the organization  are documented and evaluated by management as a step toward implementation.
+\\ \\
+In netacode they first create a virtual design of the project by adobe illustrator or figma.then they present it to their clients to justify if it has been according to their requirements or not.\\
+In some firms, separate groups of programmers do the programming , whereas other firms employ analyst programmers who do analysis.
+\section{Implementation:}
+The implementation sector is less creative than system design. It is primarily concerned with user training, site preparation and file conversion. Depending on the nature of the system, extensive user training may be required. Conversion usually takes place at about the same time the user is being trained or later.\\
+
+In netacode they told us they used  react js as frontend development and node js for backend development. They also use nuxt js and next js for development. They used php but now they have shifted to javascript. \\
+
+Once the program becomes available,test data is read into the computer and  processed against the file(s) provided for testing. If successful, the program(s) is then run with live data. Otherwise  a diagnostic procedure is used to locate and correct errors in the program. In most conversions a parallel run is conducted where the new system runs simultaneously with the old system. 
+\section{Post termination and Maintenance : }
+After the installation phase is completed and the user stuff is adjusted to the changes created by the candidate system, evaluation and  maintenance begin. Like any system, there is an aging process that requires periodic maintenance of hardware and software. If the new information is inconsistent with the design specifications, the changes have to be made. The importance of maintenance is to continue to bring the new system to standards.\\ 
+
+The policy of Netacode is to serve their clients with the project they have created according to the requirements. but they don't share the source code of any project and if their updates are available, they do it take charges. This is their strategy of post implementation and maintenance of any project.
+
+
+
 \end{document}

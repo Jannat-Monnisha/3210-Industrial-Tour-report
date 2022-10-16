@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.10)  15 OCT 2022 02:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.10)  17 OCT 2022 01:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -50,47 +50,70 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
-.
+(F:\textstudio\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(F:\textstudio\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(F:\textstudio\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count192
+\Gm@cntv=\count193
+\c@Gm@tempcnt=\count194
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+
+(F:\textstudio\tex/latex/geometry\geometry.cfg))
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+1.
 
 (F:\textstudio\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (F:\textstudio\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count192
+\l__color_backend_stack_int=\count195
 \l__pdf_internal_box=\box50
 ) (cover.aux)
 \openout1 = `cover.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 (F:\textstudio\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count193
-\scratchdimen=\dimen141
+\scratchcounter=\count196
+\scratchdimen=\dimen149
 \scratchbox=\box51
-\nofMPsegments=\count194
-\nofMParguments=\count195
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count196
-\MPscratchDim=\dimen142
-\MPnumerator=\count197
-\makeMPintoPDFobject=\count198
-\everyMPtoPDFconversion=\toks18
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen150
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks19
 ) (F:\textstudio\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -99,12 +122,47 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (F:\textstudio\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 14.45377pt
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 474.64912pt, 36.135pt)
+* v-part:(T,H,B)=(50.58878pt, 758.32307pt, 36.135pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=474.64912pt
+* \textheight=758.32307pt
+* \oddsidemargin=14.45377pt
+* \evensidemargin=0.0pt
+* \topmargin=-58.68121pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=18.06749pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 <images (1).png, id=1, 130.4875pt x 130.4875pt>
 File: images (1).png Graphic file (type png)
 <use images (1).png>
-Package pdftex.def Info: images (1).png  used on input line 15.
-(pdftex.def)             Requested size: 155.99762pt x 156.00081pt.
- [1
+Package pdftex.def Info: images (1).png  used on input line 22.
+(pdftex.def)             Requested size: 189.85675pt x 189.85905pt.
+[1
 
 {C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images (1).
 png>] (cover.toc
@@ -118,8 +176,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `cover.toc'.
 
-
-[2
+ [2
 
 ] (cover.lof)
 \tf@lof=\write4
@@ -136,70 +193,146 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 Chapter 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--45
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--54
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
 
  []
 
-[5
-
-]
-<1.png, id=21, 584.78474pt x 131.2905pt>
+<1.png, id=18, 584.78474pt x 131.2905pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 59.
-(pdftex.def)             Requested size: 272.99881pt x 61.28984pt.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 6
-6.
+Package pdftex.def Info: 1.png  used on input line 66.
+(pdftex.def)             Requested size: 332.25293pt x 74.59395pt.
+[5
+
+ <./1.png>]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7
+3.
  (F:\textstudio\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [6 <./1.png>]
-<2.png, id=27, 494.44725pt x 254.1495pt>
+)
+<2.png, id=24, 494.44725pt x 254.1495pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 98.
-(pdftex.def)             Requested size: 272.99881pt x 140.32558pt.
- [7 <./2.png>]
-<3.png, id=33, 492.03825pt x 318.59026pt>
+Package pdftex.def Info: 2.png  used on input line 105.
+(pdftex.def)             Requested size: 332.25293pt x 170.77954pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6]
+<3.png, id=28, 492.03825pt x 318.59026pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
-Package pdftex.def Info: 3.png  used on input line 116.
-(pdftex.def)             Requested size: 272.99881pt x 176.7662pt.
+Package pdftex.def Info: 3.png  used on input line 123.
+(pdftex.def)             Requested size: 332.25293pt x 215.1315pt.
+ [7 <./2.png> <./3.png>] [8]
+Chapter 2.
+<fig-1;chap-2.jpg, id=38, 300.12125pt x 168.63pt>
+File: fig-1;chap-2.jpg Graphic file (type jpg)
+<use fig-1;chap-2.jpg>
+Package pdftex.def Info: fig-1;chap-2.jpg  used on input line 164.
+(pdftex.def)             Requested size: 332.25293pt x 186.70033pt.
+[9
 
-[8 <./3.png>] [9] (cover.aux) ) 
+ <./fig-1;chap-2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--197
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+<fig-2;chap-2.png, id=45, 829.0975pt x 1156.32pt>
+File: fig-2;chap-2.png Graphic file (type png)
+<use fig-2;chap-2.png>
+Package pdftex.def Info: fig-2;chap-2.png  used on input line 202.
+(pdftex.def)             Requested size: 332.25293pt x 463.38437pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--210
+
+ []
+
+[11 <./fig-2;chap-2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
+
+ []
+
+[12] (cover.aux) ) 
 Here is how much of TeX's memory you used:
- 1446 strings out of 478659
- 22575 string characters out of 2860524
- 321890 words of memory out of 3000000
- 19562 multiletter control sequences out of 15000+600000
+ 2030 strings out of 478659
+ 31771 string characters out of 2860524
+ 342762 words of memory out of 3000000
+ 20132 multiletter control sequences out of 15000+600000
  413957 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,7n,62p,307b,291s stack positions out of 5000i,500n,10000p,200000b,80000s
-{F:/textstudio/fonts/enc/dvips/base/8r.enc}<F:/t
-extstudio/fonts/type1/urw/times/utmb8a.pfb><F:/textstudio/fonts/type1/urw/times
-/utmr8a.pfb>
-Output written on cover.pdf (9 pages, 414773 bytes).
+ 55i,7n,62p,1116b,293s stack positions out of 5000i,500n,10000p,200000b,80000s
+{F:/textstudio/fonts/enc/dvips/base/8r.enc}<F:/textstudio/fon
+ts/type1/urw/times/utmb8a.pfb><F:/textstudio/fonts/type1/urw/times/utmr8a.pfb>
+Output written on cover.pdf (12 pages, 482852 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 63 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
