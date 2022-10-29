@@ -1,8 +1,10 @@
-\contentsline {chapter}{\numberline {1}Systems Concepts and the Information Systems Environment}{5}{}%
-\contentsline {section}{\numberline {1.1}INTRODUCTION}{5}{}%
-\contentsline {section}{\numberline {1.2}Characteristic of System:}{5}{}%
-\contentsline {section}{\numberline {1.3}Elements of System}{6}{}%
-\contentsline {section}{\numberline {1.4}Types of Systems}{6}{}%
+\contentsline {chapter}{\numberline {1}Systems Concepts and the Information Systems Environment}{4}{}%
+\contentsline {section}{\numberline {1.1}INTRODUCTION}{4}{}%
+\contentsline {section}{\numberline {1.2}NetaCode goal}{4}{}%
+\contentsline {section}{\numberline {1.3}Characteristic of System:}{5}{}%
+\contentsline {section}{\numberline {1.4}Elements of System}{5}{}%
+\contentsline {section}{\numberline {1.5}Types of Systems}{6}{}%
+\contentsline {paragraph}{Summary}{8}{}%
 \contentsline {chapter}{\numberline {2}The System Development Life Cycle }{9}{}%
 \contentsline {section}{\numberline {2.1}Introduction:}{9}{}%
 \contentsline {section}{\numberline {2.2}Recognition of Need: }{9}{}%
@@ -11,3 +13,18 @@
 \contentsline {section}{\numberline {2.5}Design:}{11}{}%
 \contentsline {section}{\numberline {2.6}Implementation:}{12}{}%
 \contentsline {section}{\numberline {2.7}Post termination and Maintenance : }{12}{}%
+\contentsline {paragraph}{Summary}{12}{}%
+\contentsline {chapter}{\numberline {3}The Role of the System Analyst}{13}{}%
+\contentsline {section}{\numberline {3.1}Introduction}{13}{}%
+\contentsline {paragraph}{System Analysis:}{13}{}%
+\contentsline {section}{\numberline {3.2}THE SYSTEMS ANALYST}{13}{}%
+\contentsline {subsection}{\numberline {3.2.1}Technical skills include:}{13}{}%
+\contentsline {section}{\numberline {3.3}The background and experience of analysts include:}{14}{}%
+\contentsline {section}{\numberline {3.4}The attributes are:}{14}{}%
+\contentsline {paragraph}{Summary }{15}{}%
+\contentsline {chapter}{\numberline {4}Systems Planning and the Initial Investigation}{16}{}%
+\contentsline {section}{\numberline {4.1}Bases for planning in system analysis :}{16}{}%
+\contentsline {section}{\numberline {4.2}Strategic MIS Planning}{16}{}%
+\contentsline {section}{\numberline {4.3}Strategies for Determining Information Requirements}{16}{}%
+\contentsline {paragraph}{Asking}{17}{}%
+\contentsline {paragraph}{Summary}{17}{}%

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.10)  29 OCT 2022 13:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.10)  29 OCT 2022 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./cover.tex
-(cover.tex
+**./Chap8.tex
+(Chap8.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22> (F:\textstudio\tex/latex/base\report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
@@ -139,8 +139,8 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count267
 \l__pdf_internal_box=\box52
-) (cover.aux)
-\openout1 = `cover.aux'.
+) (Chap8.aux)
+\openout1 = `Chap8.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -220,16 +220,7 @@ Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)
-<images (1).png, id=1, 130.4875pt x 130.4875pt>
-File: images (1).png Graphic file (type png)
-<use images (1).png>
-Package pdftex.def Info: images (1).png  used on input line 23.
-(pdftex.def)             Requested size: 189.85675pt x 189.85905pt.
- [1
-
-{C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images (1).
-png>] (cover.toc
+) (Chap8.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -238,210 +229,115 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
 )
 \tf@toc=\write3
-\openout3 = `cover.toc'.
+\openout3 = `Chap8.toc'.
+
+ [1
+
+
+{C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Chap8.lof)
+\tf@lof=\write4
+\openout4 = `Chap8.lof'.
 
  [2
 
 ]
-(cover.lof)
-\tf@lof=\write4
-\openout4 = `cover.lof'.
-
- [3
-
-]
 Chapter 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
-
- []
-
-<1_1.png, id=15, 365.365pt x 138.5175pt>
-File: 1_1.png Graphic file (type png)
-<use 1_1.png>
-Package pdftex.def Info: 1_1.png  used on input line 51.
-(pdftex.def)             Requested size: 427.1813pt x 161.96124pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--68
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--68
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
  []
 
-[4
-
- <./1_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 78--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--83
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--89
-
- []
-
-<1.png, id=19, 584.78474pt x 131.2905pt>
-File: 1.png Graphic file (type png)
-<use 1.png>
-Package pdftex.def Info: 1.png  used on input line 94.
-(pdftex.def)             Requested size: 332.25293pt x 74.59395pt.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-01.
-(F:\textstudio\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [5 <./1.png>]
-<2.png, id=25, 494.44725pt x 254.1495pt>
-File: 2.png Graphic file (type png)
-<use 2.png>
-Package pdftex.def Info: 2.png  used on input line 133.
-(pdftex.def)             Requested size: 332.25293pt x 170.77954pt.
- [6 <./2.png>]
-<3.png, id=30, 492.03825pt x 318.59026pt>
-File: 3.png Graphic file (type png)
-<use 3.png>
-Package pdftex.def Info: 3.png  used on input line 151.
-(pdftex.def)             Requested size: 332.25293pt x 215.1315pt.
- [7 <./3.png>] [8]
-Chapter 2.
-<fig-1;chap-2.jpg, id=39, 300.12125pt x 168.63pt>
-File: fig-1;chap-2.jpg Graphic file (type jpg)
-<use fig-1;chap-2.jpg>
-Package pdftex.def Info: fig-1;chap-2.jpg  used on input line 186.
-(pdftex.def)             Requested size: 332.25293pt x 186.70033pt.
-[9
-
- <./fig-1;chap-2.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 201--202
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 216--219
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 216--219
-
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
-
- []
-
-<fig-2;chap-2.png, id=46, 829.0975pt x 1156.32pt>
-File: fig-2;chap-2.png Graphic file (type png)
-<use fig-2;chap-2.png>
-Package pdftex.def Info: fig-2;chap-2.png  used on input line 224.
-(pdftex.def)             Requested size: 332.25293pt x 463.38437pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 228--232
-
- []
-
-[11 <./fig-2;chap-2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 235--236
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
-
- []
-
-[12]
-Chapter 3.
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--255
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--261
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--261
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--261
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 256--261
-
- []
-
-[13
+[3
 
 ]
-<3_1.jpg, id=57, 247.6452pt x 161.403pt>
-File: 3_1.jpg Graphic file (type jpg)
-<use 3_1.jpg>
-Package pdftex.def Info: 3_1.jpg  used on input line 264.
-(pdftex.def)             Requested size: 427.1813pt x 278.43771pt.
- [14 <./3_1.jpg>] [15]
-Chapter 4.
-[16
+<7_2.png, id=13, 518.53725pt x 266.79675pt>
+File: 7_2.png Graphic file (type png)
+<use 7_2.png>
+Package pdftex.def Info: 7_2.png  used on input line 29.
+(pdftex.def)             Requested size: 332.25293pt x 170.9488pt.
+<8_4.png, id=15, 495.65175pt x 428.802pt>
+File: 8_4.png Graphic file (type png)
+<use 8_4.png>
+Package pdftex.def Info: 8_4.png  used on input line 35.
+(pdftex.def)             Requested size: 379.72073pt x 328.52318pt.
+ [4 <./7_2.png> <./8_4.png>]
+<8_1.png, id=21, 1760.5775pt x 1403.2425pt>
+File: 8_1.png Graphic file (type png)
+<use 8_1.png>
+Package pdftex.def Info: 8_1.png  used on input line 47.
+(pdftex.def)             Requested size: 474.64912pt x 378.30241pt.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 6
+9.
+ (F:\textstudio\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+[5 <./8_1.png>]
 
-] [17] (cover.aux) ) 
+pdfTeX warning: pdflatex.exe (file ./cost.pdf): PDF inclusion: found PDF versio
+n <1.7>, but at most version <1.5> allowed
+<cost.pdf, id=26, 614.295pt x 794.97pt>
+File: cost.pdf Graphic file (type pdf)
+<use cost.pdf>
+Package pdftex.def Info: cost.pdf  used on input line 83.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./cost.pdf): PDF inclusion: found PDF versio
+n <1.7>, but at most version <1.5> allowed
+File: cost.pdf Graphic file (type pdf)
+<use cost.pdf>
+Package pdftex.def Info: cost.pdf  used on input line 83.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./cost.pdf): PDF inclusion: found PDF versio
+n <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./cost.pdf): PDF inclusion: found PDF versio
+n <1.7>, but at most version <1.5> allowed
+<cost.pdf, id=29, page=1, 614.295pt x 794.97pt>
+File: cost.pdf Graphic file (type pdf)
+<use cost.pdf, page 1>
+Package pdftex.def Info: cost.pdf , page1 used on input line 83.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: cost.pdf Graphic file (type pdf)
+<use cost.pdf, page 1>
+Package pdftex.def Info: cost.pdf , page1 used on input line 83.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[6]
+File: cost.pdf Graphic file (type pdf)
+<use cost.pdf, page 1>
+Package pdftex.def Info: cost.pdf , page1 used on input line 83.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: cost.pdf Graphic file (type pdf)
+<use cost.pdf, page 1>
+Package pdftex.def Info: cost.pdf , page1 used on input line 83.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: cost.pdf Graphic file (type pdf)
+<use cost.pdf, page 1>
+Package pdftex.def Info: cost.pdf , page1 used on input line 83.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [7 <./cost.pdf>] [8] (Chap8.aux) ) 
 Here is how much of TeX's memory you used:
- 3407 strings out of 478659
- 52576 string characters out of 2860524
- 367224 words of memory out of 3000000
- 21478 multiletter control sequences out of 15000+600000
+ 3358 strings out of 478659
+ 51841 string characters out of 2860524
+ 360173 words of memory out of 3000000
+ 21432 multiletter control sequences out of 15000+600000
  416090 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,7n,75p,1116b,299s stack positions out of 5000i,500n,10000p,200000b,80000s
-{F:/textstudio/fonts/enc/dvips/base/8r.enc}<F:/textstudio/f
-onts/type1/urw/times/utmb8a.pfb><F:/textstudio/fonts/type1/urw/times/utmr8a.pfb
->
-Output written on cover.pdf (17 pages, 522950 bytes).
+ 61i,17n,75p,279b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
+{F:/textstudio/fonts/enc/dvips/base/8r.enc}<
+F:/textstudio/fonts/type1/urw/times/utmb8a.pfb><F:/textstudio/fonts/type1/urw/t
+imes/utmr8a.pfb>
+Output written on Chap8.pdf (8 pages, 262630 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
