@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.10)  31 OCT 2022 21:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.10)  31 OCT 2022 22:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./Chap8.tex
-(Chap8.tex
+**./chp9.tex
+(chp9.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22> (F:\textstudio\tex/latex/base\report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
@@ -139,8 +139,12 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count267
 \l__pdf_internal_box=\box52
-) (Chap8.aux)
-\openout1 = `Chap8.aux'.
+) (chp9.aux
+
+LaTeX Warning: Label `fig:92' multiply defined.
+
+)
+\openout1 = `chp9.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -156,8 +160,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
-
-(F:\textstudio\tex/context/base/mkii\supp-pdf.mkii
+ (F:\textstudio\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count268
 \scratchdimen=\dimen156
@@ -220,7 +223,7 @@ Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-) (Chap8.toc
+) (chp9.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -229,14 +232,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
 )
 \tf@toc=\write3
-\openout3 = `Chap8.toc'.
+\openout3 = `chp9.toc'.
 
  [1
 
 
-{C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Chap8.lof)
+{C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (chp9.lof)
 \tf@lof=\write4
-\openout4 = `Chap8.lof'.
+\openout4 = `chp9.lof'.
 
  [2
 
@@ -247,97 +250,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
+<9_1.png, id=10, 1292.83pt x 841.1425pt>
+File: 9_1.png Graphic file (type png)
+<use 9_1.png>
+Package pdftex.def Info: 9_1.png  used on input line 34.
+(pdftex.def)             Requested size: 332.25293pt x 216.16344pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--25
+LaTeX Warning: `h' float specifier changed to `ht'.
 
- []
-
-[3
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
+1.
+(F:\textstudio\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [3
 
 ]
-<7_2.png, id=13, 518.53725pt x 266.79675pt>
-File: 7_2.png Graphic file (type png)
-<use 7_2.png>
-Package pdftex.def Info: 7_2.png  used on input line 29.
-(pdftex.def)             Requested size: 332.25293pt x 170.9488pt.
-<8_4.png, id=15, 495.65175pt x 428.802pt>
-File: 8_4.png Graphic file (type png)
-<use 8_4.png>
-Package pdftex.def Info: 8_4.png  used on input line 35.
-(pdftex.def)             Requested size: 379.72073pt x 328.52318pt.
- [4 <./7_2.png> <./8_4.png>]
-<8_1.png, id=21, 1760.5775pt x 1403.2425pt>
-File: 8_1.png Graphic file (type png)
-<use 8_1.png>
-Package pdftex.def Info: 8_1.png  used on input line 47.
-(pdftex.def)             Requested size: 474.64912pt x 378.30241pt.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 6
-9.
- (F:\textstudio\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-[5 <./8_1.png>]
+<9_2.png, id=15, 1325.95375pt x 524.96124pt>
+File: 9_2.png Graphic file (type png)
+<use 9_2.png>
+Package pdftex.def Info: 9_2.png  used on input line 54.
+(pdftex.def)             Requested size: 332.25293pt x 131.53636pt.
+<9_3.jpg, id=16, 687.56876pt x 287.0725pt>
+File: 9_3.jpg Graphic file (type jpg)
+<use 9_3.jpg>
+Package pdftex.def Info: 9_3.jpg  used on input line 62.
+(pdftex.def)             Requested size: 332.25293pt x 138.72186pt.
+<9_4.png, id=17, 1002.74625pt x 400.49625pt>
+File: 9_4.png Graphic file (type png)
+<use 9_4.png>
+Package pdftex.def Info: 9_4.png  used on input line 70.
+(pdftex.def)             Requested size: 332.25293pt x 132.70193pt.
+ [4 <./9_1.png> <./9_2.png>]
+[5 <./9_3.jpg> <./9_4.png>] (chp9.aux)
 
-pdfTeX warning: pdflatex.exe (file ./cost.pdf): PDF inclusion: found PDF versio
-n <1.7>, but at most version <1.5> allowed
-<cost.pdf, id=26, 614.295pt x 794.97pt>
-File: cost.pdf Graphic file (type pdf)
-<use cost.pdf>
-Package pdftex.def Info: cost.pdf  used on input line 83.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+LaTeX Warning: There were multiply-defined labels.
 
-
-pdfTeX warning: pdflatex.exe (file ./cost.pdf): PDF inclusion: found PDF versio
-n <1.7>, but at most version <1.5> allowed
-File: cost.pdf Graphic file (type pdf)
-<use cost.pdf>
-Package pdftex.def Info: cost.pdf  used on input line 83.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./cost.pdf): PDF inclusion: found PDF versio
-n <1.7>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex.exe (file ./cost.pdf): PDF inclusion: found PDF versio
-n <1.7>, but at most version <1.5> allowed
-<cost.pdf, id=29, page=1, 614.295pt x 794.97pt>
-File: cost.pdf Graphic file (type pdf)
-<use cost.pdf, page 1>
-Package pdftex.def Info: cost.pdf , page1 used on input line 83.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: cost.pdf Graphic file (type pdf)
-<use cost.pdf, page 1>
-Package pdftex.def Info: cost.pdf , page1 used on input line 83.
-(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
-[6]
-File: cost.pdf Graphic file (type pdf)
-<use cost.pdf, page 1>
-Package pdftex.def Info: cost.pdf , page1 used on input line 83.
-(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
-File: cost.pdf Graphic file (type pdf)
-<use cost.pdf, page 1>
-Package pdftex.def Info: cost.pdf , page1 used on input line 83.
-(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
-File: cost.pdf Graphic file (type pdf)
-<use cost.pdf, page 1>
-Package pdftex.def Info: cost.pdf , page1 used on input line 83.
-(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [7 <./cost.pdf>] [8] (Chap8.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 3358 strings out of 478659
- 51841 string characters out of 2860524
- 360173 words of memory out of 3000000
- 21432 multiletter control sequences out of 15000+600000
- 416090 words of font info for 50 fonts, out of 8000000 for 9000
+ 3355 strings out of 478659
+ 51703 string characters out of 2860524
+ 365191 words of memory out of 3000000
+ 21431 multiletter control sequences out of 15000+600000
+ 413957 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,17n,75p,279b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
-{F:/textstudio/fonts/enc/dvips/base/8r.enc}<
-F:/textstudio/fonts/type1/urw/times/utmb8a.pfb><F:/textstudio/fonts/type1/urw/t
-imes/utmr8a.pfb>
-Output written on Chap8.pdf (8 pages, 262630 bytes).
+ 61i,7n,75p,633b,242s stack positions out of 5000i,500n,10000p,200000b,80000s
+{F:/textstudio/fonts/enc/dvips/base/8r.enc}<F:/textstudio/fonts/type1/urw/tim
+es/utmb8a.pfb><F:/textstudio/fonts/type1/urw/times/utmr8a.pfb>
+Output written on chp9.pdf (5 pages, 293219 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
+ 37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

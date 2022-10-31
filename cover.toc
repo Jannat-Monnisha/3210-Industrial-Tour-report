@@ -4,27 +4,33 @@
 \contentsline {section}{\numberline {1.3}Characteristic of System:}{5}{}%
 \contentsline {section}{\numberline {1.4}Elements of System}{5}{}%
 \contentsline {section}{\numberline {1.5}Types of Systems}{6}{}%
-\contentsline {paragraph}{Summary}{8}{}%
-\contentsline {chapter}{\numberline {2}The System Development Life Cycle }{9}{}%
-\contentsline {section}{\numberline {2.1}Introduction:}{9}{}%
+\contentsline {paragraph}{Summary}{7}{}%
+\contentsline {chapter}{\numberline {2}The System Development Life Cycle }{8}{}%
+\contentsline {section}{\numberline {2.1}Introduction:}{8}{}%
 \contentsline {section}{\numberline {2.2}Recognition of Need: }{9}{}%
-\contentsline {section}{\numberline {2.3}Feasibility Study}{10}{}%
+\contentsline {section}{\numberline {2.3}Feasibility Study}{9}{}%
 \contentsline {section}{\numberline {2.4}Analysis:}{10}{}%
-\contentsline {section}{\numberline {2.5}Design:}{11}{}%
-\contentsline {section}{\numberline {2.6}Implementation:}{12}{}%
-\contentsline {section}{\numberline {2.7}Post termination and Maintenance : }{12}{}%
-\contentsline {paragraph}{Summary}{12}{}%
-\contentsline {chapter}{\numberline {3}The Role of the System Analyst}{13}{}%
-\contentsline {section}{\numberline {3.1}Introduction}{13}{}%
-\contentsline {paragraph}{System Analysis:}{13}{}%
-\contentsline {section}{\numberline {3.2}THE SYSTEMS ANALYST}{13}{}%
-\contentsline {subsection}{\numberline {3.2.1}Technical skills include:}{13}{}%
-\contentsline {section}{\numberline {3.3}The background and experience of analysts include:}{14}{}%
-\contentsline {section}{\numberline {3.4}The attributes are:}{14}{}%
-\contentsline {paragraph}{Summary }{15}{}%
-\contentsline {chapter}{\numberline {4}Systems Planning and the Initial Investigation}{16}{}%
-\contentsline {section}{\numberline {4.1}Bases for planning in system analysis :}{16}{}%
-\contentsline {section}{\numberline {4.2}Strategic MIS Planning}{16}{}%
-\contentsline {section}{\numberline {4.3}Strategies for Determining Information Requirements}{16}{}%
-\contentsline {paragraph}{Asking}{17}{}%
-\contentsline {paragraph}{Summary}{17}{}%
+\contentsline {section}{\numberline {2.5}Design:}{10}{}%
+\contentsline {section}{\numberline {2.6}Implementation:}{10}{}%
+\contentsline {section}{\numberline {2.7}Post termination and Maintenance : }{11}{}%
+\contentsline {paragraph}{Summary}{11}{}%
+\contentsline {chapter}{\numberline {3}The Role of the System Analyst}{12}{}%
+\contentsline {section}{\numberline {3.1}Introduction}{12}{}%
+\contentsline {paragraph}{System Analysis:}{12}{}%
+\contentsline {section}{\numberline {3.2}THE SYSTEMS ANALYST}{12}{}%
+\contentsline {subsection}{\numberline {3.2.1}Technical skills include:}{12}{}%
+\contentsline {section}{\numberline {3.3}The background and experience of analysts include:}{13}{}%
+\contentsline {section}{\numberline {3.4}The attributes are:}{13}{}%
+\contentsline {paragraph}{Summary }{14}{}%
+\contentsline {chapter}{\numberline {4}Systems Planning and the Initial Investigation}{15}{}%
+\contentsline {section}{\numberline {4.1}Bases for planning in system analysis :}{15}{}%
+\contentsline {section}{\numberline {4.2}Strategic MIS Planning}{15}{}%
+\contentsline {section}{\numberline {4.3}Strategies for Determining Information Requirements}{15}{}%
+\contentsline {paragraph}{Asking}{16}{}%
+\contentsline {paragraph}{Summary}{16}{}%
+\contentsline {chapter}{\numberline {5}Information Gathering}{17}{}%
+\contentsline {section}{\numberline {5.1}Introduction}{17}{}%
+\contentsline {section}{\numberline {5.2}How Netacode collects information from clients.}{17}{}%
+\contentsline {section}{\numberline {5.3}Information about the firm}{17}{}%
+\contentsline {section}{\numberline {5.4}Information Gathering Method – Questionaries}{18}{}%
+\contentsline {paragraph}{Conclusion}{21}{}%
