@@ -1,36 +1,80 @@
-\contentsline {chapter}{\numberline {1}Systems Concepts and the Information Systems Environment}{4}{}%
-\contentsline {section}{\numberline {1.1}INTRODUCTION}{4}{}%
-\contentsline {section}{\numberline {1.2}NetaCode goal}{4}{}%
-\contentsline {section}{\numberline {1.3}Characteristic of System:}{5}{}%
-\contentsline {section}{\numberline {1.4}Elements of System}{5}{}%
-\contentsline {section}{\numberline {1.5}Types of Systems}{6}{}%
-\contentsline {paragraph}{Summary}{7}{}%
-\contentsline {chapter}{\numberline {2}The System Development Life Cycle }{8}{}%
-\contentsline {section}{\numberline {2.1}Introduction:}{8}{}%
-\contentsline {section}{\numberline {2.2}Recognition of Need: }{9}{}%
-\contentsline {section}{\numberline {2.3}Feasibility Study}{9}{}%
-\contentsline {section}{\numberline {2.4}Analysis:}{10}{}%
-\contentsline {section}{\numberline {2.5}Design:}{10}{}%
-\contentsline {section}{\numberline {2.6}Implementation:}{10}{}%
-\contentsline {section}{\numberline {2.7}Post termination and Maintenance : }{11}{}%
-\contentsline {paragraph}{Summary}{11}{}%
-\contentsline {chapter}{\numberline {3}The Role of the System Analyst}{12}{}%
-\contentsline {section}{\numberline {3.1}Introduction}{12}{}%
-\contentsline {paragraph}{System Analysis:}{12}{}%
-\contentsline {section}{\numberline {3.2}THE SYSTEMS ANALYST}{12}{}%
-\contentsline {subsection}{\numberline {3.2.1}Technical skills include:}{12}{}%
-\contentsline {section}{\numberline {3.3}The background and experience of analysts include:}{13}{}%
-\contentsline {section}{\numberline {3.4}The attributes are:}{13}{}%
-\contentsline {paragraph}{Summary }{14}{}%
-\contentsline {chapter}{\numberline {4}Systems Planning and the Initial Investigation}{15}{}%
-\contentsline {section}{\numberline {4.1}Bases for planning in system analysis :}{15}{}%
-\contentsline {section}{\numberline {4.2}Strategic MIS Planning}{15}{}%
-\contentsline {section}{\numberline {4.3}Strategies for Determining Information Requirements}{15}{}%
-\contentsline {paragraph}{Asking}{16}{}%
-\contentsline {paragraph}{Summary}{16}{}%
-\contentsline {chapter}{\numberline {5}Information Gathering}{17}{}%
-\contentsline {section}{\numberline {5.1}Introduction}{17}{}%
-\contentsline {section}{\numberline {5.2}How Netacode collects information from clients.}{17}{}%
-\contentsline {section}{\numberline {5.3}Information about the firm}{17}{}%
-\contentsline {section}{\numberline {5.4}Information Gathering Method – Questionaries}{18}{}%
-\contentsline {paragraph}{Conclusion}{21}{}%
+\contentsline {chapter}{\numberline {1}Systems Concepts and the Information Systems Environment}{5}{}%
+\contentsline {section}{\numberline {1.1}Introduction}{5}{}%
+\contentsline {section}{\numberline {1.2}NetaCode goal}{5}{}%
+\contentsline {section}{\numberline {1.3}Characteristic of System}{6}{}%
+\contentsline {section}{\numberline {1.4}Elements of System}{6}{}%
+\contentsline {section}{\numberline {1.5}Types of Systems}{7}{}%
+\contentsline {section}{\numberline {1.6}Conclusion}{8}{}%
+\contentsline {chapter}{\numberline {2}The System Development Life Cycle }{9}{}%
+\contentsline {section}{\numberline {2.1}Introduction}{9}{}%
+\contentsline {section}{\numberline {2.2}Recognition of Need}{10}{}%
+\contentsline {section}{\numberline {2.3}Feasibility Study}{10}{}%
+\contentsline {section}{\numberline {2.4}Analysis}{10}{}%
+\contentsline {section}{\numberline {2.5}Design}{11}{}%
+\contentsline {section}{\numberline {2.6}Implementation}{12}{}%
+\contentsline {section}{\numberline {2.7}Post termination and Maintenance }{12}{}%
+\contentsline {section}{\numberline {2.8}Conclusion}{12}{}%
+\contentsline {chapter}{\numberline {3}The Role of the System Analyst}{13}{}%
+\contentsline {section}{\numberline {3.1}Introduction}{13}{}%
+\contentsline {paragraph}{System Analysis}{13}{}%
+\contentsline {section}{\numberline {3.2}System Analyst}{13}{}%
+\contentsline {subsection}{\numberline {3.2.1}Technical skills include}{13}{}%
+\contentsline {section}{\numberline {3.3}The background and experience of analysts include}{14}{}%
+\contentsline {section}{\numberline {3.4}The attributes are}{14}{}%
+\contentsline {section}{\numberline {3.5}Conclusion}{15}{}%
+\contentsline {chapter}{\numberline {4}Systems Planning and the Initial Investigation}{16}{}%
+\contentsline {section}{\numberline {4.1}Bases for planning in system analysis :}{16}{}%
+\contentsline {section}{\numberline {4.2}Strategic MIS Planning}{16}{}%
+\contentsline {section}{\numberline {4.3}Strategies for Determining Information Requirements}{16}{}%
+\contentsline {paragraph}{Asking}{17}{}%
+\contentsline {section}{\numberline {4.4}Conclusion}{17}{}%
+\contentsline {chapter}{\numberline {5}Information Gathering}{18}{}%
+\contentsline {section}{\numberline {5.1}Introduction}{18}{}%
+\contentsline {section}{\numberline {5.2}How Netacode collects information from clients.}{18}{}%
+\contentsline {section}{\numberline {5.3}Information about the firm}{18}{}%
+\contentsline {section}{\numberline {5.4}Information Gathering Method – Questionaries}{19}{}%
+\contentsline {section}{\numberline {5.5}Conclusion}{22}{}%
+\contentsline {chapter}{\numberline {6}The Tools of Structured Analaysis}{23}{}%
+\contentsline {section}{\numberline {6.1}Structured Analaysis}{23}{}%
+\contentsline {section}{\numberline {6.2}Structured Analysis Tools}{23}{}%
+\contentsline {section}{\numberline {6.3}Information Gathering Tools}{23}{}%
+\contentsline {chapter}{\numberline {7}Feasibility Study}{26}{}%
+\contentsline {section}{\numberline {7.1}Introduction}{26}{}%
+\contentsline {section}{\numberline {7.2}Need of Feasibility Study in The Company:}{26}{}%
+\contentsline {section}{\numberline {7.3}System Performance}{26}{}%
+\contentsline {section}{\numberline {7.4}Statement of Constraints}{27}{}%
+\contentsline {section}{\numberline {7.5}Identification of Specific System Objective}{27}{}%
+\contentsline {section}{\numberline {7.6}Feasibility Consideration}{27}{}%
+\contentsline {subsection}{\numberline {7.6.1}Economic Feasibility}{27}{}%
+\contentsline {subsection}{\numberline {7.6.2}Technical Feasibility}{28}{}%
+\contentsline {subsection}{\numberline {7.6.3}Behaviour Feasibility}{28}{}%
+\contentsline {subparagraph}{}{28}{}%
+\contentsline {section}{\numberline {7.7}Conclusion}{29}{}%
+\contentsline {chapter}{\numberline {8}Cost/Benefit Analysis}{30}{}%
+\contentsline {section}{\numberline {8.1}Intoduction}{30}{}%
+\contentsline {section}{\numberline {8.2}Data analysis}{30}{}%
+\contentsline {section}{\numberline {8.3}cost}{30}{}%
+\contentsline {subsection}{\numberline {8.3.1}Cost analysis for a existing project}{32}{}%
+\contentsline {section}{\numberline {8.4}Benefit}{32}{}%
+\contentsline {subsection}{\numberline {8.4.1}Benefit analysis for a existing project}{33}{}%
+\contentsline {section}{\numberline {8.5}Conclusion}{35}{}%
+\contentsline {chapter}{\numberline {9}The Process and Stages of System Design}{36}{}%
+\contentsline {section}{\numberline {9.1}Introduction}{36}{}%
+\contentsline {section}{\numberline {9.2}Logical and Physical Design}{36}{}%
+\contentsline {section}{\numberline {9.3}Structured Design}{37}{}%
+\contentsline {section}{\numberline {9.4}HIPO Diagram}{37}{}%
+\contentsline {section}{\numberline {9.5}IPO Diagram}{38}{}%
+\contentsline {section}{\numberline {9.6}Conclusion}{38}{}%
+\contentsline {chapter}{\numberline {10}Input/Output and Forms Design}{39}{}%
+\contentsline {section}{\numberline {10.1}Input Design}{39}{}%
+\contentsline {section}{\numberline {10.2}Objectives for Input Design}{39}{}%
+\contentsline {section}{\numberline {10.3}Data Input Methods}{39}{}%
+\contentsline {section}{\numberline {10.4}Output Design}{40}{}%
+\contentsline {subsection}{\numberline {10.4.1}Objectives of Output Design}{40}{}%
+\contentsline {section}{\numberline {10.5}Forms Design}{40}{}%
+\contentsline {section}{\numberline {10.6}Types of Forms}{40}{}%
+\contentsline {subparagraph}{Flat Forms}{40}{}%
+\contentsline {subparagraph}{Unit Set/Snap out Forms}{40}{}%
+\contentsline {subparagraph}{Continuous strip/Fanfold Forms}{40}{}%
+\contentsline {section}{\numberline {10.7}Employment Form}{41}{}%
+\contentsline {section}{\numberline {10.8}Conclusion}{41}{}%

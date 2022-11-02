@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.10)  31 OCT 2022 22:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.10)  1 NOV 2022 09:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -289,14 +289,14 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  3355 strings out of 478659
  51703 string characters out of 2860524
- 365191 words of memory out of 3000000
+ 365211 words of memory out of 3000000
  21431 multiletter control sequences out of 15000+600000
  413957 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,7n,75p,633b,242s stack positions out of 5000i,500n,10000p,200000b,80000s
 {F:/textstudio/fonts/enc/dvips/base/8r.enc}<F:/textstudio/fonts/type1/urw/tim
 es/utmb8a.pfb><F:/textstudio/fonts/type1/urw/times/utmr8a.pfb>
-Output written on chp9.pdf (5 pages, 293219 bytes).
+Output written on chp9.pdf (5 pages, 293339 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
