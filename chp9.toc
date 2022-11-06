@@ -1,7 +1,0 @@
-\contentsline {chapter}{\numberline {1}The Process and Stages of System Design}{3}{}%
-\contentsline {section}{\numberline {1.1}Introduction}{3}{}%
-\contentsline {section}{\numberline {1.2}Logical and Physical Design}{3}{}%
-\contentsline {section}{\numberline {1.3}Structured Design}{4}{}%
-\contentsline {section}{\numberline {1.4}HIPO Diagram}{4}{}%
-\contentsline {section}{\numberline {1.5}IPO Diagram}{5}{}%
-\contentsline {paragraph}{Summary}{5}{}%
